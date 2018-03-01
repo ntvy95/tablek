@@ -13,7 +13,8 @@ Tested on phpBB 3.1.9.
 
 ## Full syntax
 
-`[tablek html attributes | css attributes]
+```
+[tablek html attributes | css attributes]
 {first row html attributes | css atributes }
 |first row first col html attributes [ css attributes } first row first col
 first row first col second line
@@ -22,7 +23,8 @@ first row first col second line
 |second row first col html attributes [ css attributes } second row first col
 |second row second col html attributes [ css attributes } second row second col
 second row second col second line
-[/tablek]`
+[/tablek]
+```
 
 HTML equivalence:
 
@@ -30,12 +32,14 @@ HTML equivalence:
 
 ## Most minimum syntax
 
-`[tablek]
+```
+[tablek]
 {}
 |first row first col |first row second col
 {}
 |second row first col |second row second col
-[/tablek]`
+[/tablek]
+```
 
 HTML equivalence:
 
