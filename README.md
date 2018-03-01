@@ -1,6 +1,8 @@
 
 Date of creation: Jul 09, 2015. Last update: Jul 16, 2015.
 
+I once put all of my phpBB extensions into one GitHub respository when I was a GitHub newbie. I am re-committing them for separate repositories.
+
 # What is this?
 
 A phpBB extension: TABLEK BBCode, which is to facilitate table creation in posts.
